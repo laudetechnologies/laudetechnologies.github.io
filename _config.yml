@@ -24,8 +24,9 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Services: "services"
   About: "about-us"
+  Contact: "contact-us"
 
 ################
 # --- Logo --- #
